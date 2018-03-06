@@ -1,0 +1,21 @@
+body {
+    background-color: #000;
+    text-align: center;
+    padding-top: 100px;
+}
+}
+ul {
+}
+
+ul li a {
+    color: #6d5d5d;
+    font-size: 40px;
+    text-decoration: none;
+    
+}
+ul li a:hover {
+    background-color: #d8cccc;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 65%;
+}
